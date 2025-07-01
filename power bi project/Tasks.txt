@@ -1,0 +1,9 @@
+Tasks
+
+1] Top 5 Energy Provider by Total Current and Total Voltage in particular City
+
+2] Total Energy Consumption by Months in Particular Year
+
+3] Total Energy Consumption and Total Energy Cost by Enerygy Usage Category
+
+4] Total Energy Provider by Energy Source
